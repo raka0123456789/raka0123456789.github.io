@@ -1,0 +1,49 @@
+body{
+  font-family: Georgia, Times New Roman;
+  text-align: center;
+  background-color: #f1f3ce;
+  color: #283655;
+  line-height: 1;
+}
+.table{
+font-family: ;
+  width: 100%;
+  background-color: ;
+
+}
+
+.link{
+  text-decoration: none;
+  color: #2a3132;
+}
+.p{
+  line-height: 1.5;
+}
+.heading{
+  text-align: left;
+}
+.image{
+  width: 65%;
+}
+.image2{
+  width: 50%;
+}
+.img{
+  width: 15%;
+  line-height: 50%;
+  
+}
+.id{
+  line-height: 1;
+  text-align: center;
+  top: 50%;
+}
+.author{
+  text-align: ;
+  position: absolute;
+	bottom: 1%;
+}
+.p1{
+  position: absolute;
+  bottom: 9%;
+}
