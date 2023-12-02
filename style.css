@@ -6,9 +6,10 @@ body{
   line-height: 1;
 }
 .table{
-font-family: ;
+  font-family: ;
   width: 100%;
   background-color: ;
+  text-align: ;
 
 }
 
@@ -23,15 +24,14 @@ font-family: ;
   text-align: left;
 }
 .image{
-  width: 65%;
+  width: 250px;
 }
 .image2{
-  width: 50%;
+  width: 200px;
 }
 .img{
-  width: 15%;
+  width: 60px;
   line-height: 50%;
-  
 }
 .id{
   line-height: 1;
@@ -41,9 +41,8 @@ font-family: ;
 .author{
   text-align: ;
   position: absolute;
-	bottom: 1%;
+  bottom: 1%;
 }
 .p1{
-  position: absolute;
-  bottom: 9%;
+  
 }
