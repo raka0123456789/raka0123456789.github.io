@@ -9,7 +9,7 @@ body{
   font-family: ;
   width: 100%;
   background-color: ;
-  text-align: ;
+  text-align: center;
 
 }
 
@@ -31,7 +31,6 @@ body{
 }
 .img{
   width: 60px;
-  line-height: 50%;
 }
 .id{
   line-height: 1;
@@ -41,7 +40,7 @@ body{
 .author{
   position: absolute;
   left: 10px;
-  bottom: 10px;
+  bottom: 5px;
 }
 .p1{
   
